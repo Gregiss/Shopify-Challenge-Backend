@@ -1,10 +1,6 @@
 # Shopify-Image-Repository App
 
-This project was inspired from the Fall 2021 Shopify Intern Chanllenge(https://docs.google.com/document/d/1ZKRywXQLZWOqVOHC4JkF3LqdpO3Llpfk_CkZPR8bjak/edit#), and bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
-
-## Deployed Link and Video demo
-Deployed link: https://imagerepo-8fb04.firebaseapp.com/ <br>
-Video demo link: https://www.youtube.com/watch?v=QvxgzL8XBks
+This project was inspired from the Fall 2021 Shopify Intern Chanllenge(https://docs.google.com/document/d/1eg3sJTOwtyFhDopKedRD6142CFkDfWp1QvRKXNTPIOc/edit)
 
 ## Challenge Description
 Build an image repository.
@@ -25,12 +21,12 @@ Two features are implemented for this POC product:
 
 To run this project, in your local terminal, do:
 ```
-$ git clone https://github.com/yue-cheng-wind/shopify-image-repository.git
-$ npm install
+$ git clone https://github.com/Gregiss/Shopify-Challenge-Backend.git
+$ yarn install
 ```
 Now the web app is install to your local machine.
 
-### `npm start`
+### `yarn run start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -38,7 +34,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
+### `yarn test`
 
 Launches the test runner as App.test.js in the root directory in the interactive watch mode.\
 In App.test.js, three categories of tests are conducted:\
